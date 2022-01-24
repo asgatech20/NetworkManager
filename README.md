@@ -33,7 +33,6 @@ Here is the current Swift compatibility breakdown:
 
 
 
-
 [releases]: https://github.com/thoughtbot/Argo/releases
 
 ## Installation
